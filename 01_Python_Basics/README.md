@@ -22,3 +22,8 @@ Make sure Python is installed, then open terminal or command prompt:
 
 ```bash
 python main.py
+
+
+---
+
+
